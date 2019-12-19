@@ -1,7 +1,7 @@
-1The program does nothing to non-alphabetical characters, since they do not contain consonants or vowels.
+1 The program does nothing to non-alphabetical characters, since they do not contain consonants or vowels.
 Example Input: 3
 Example Output: 3
-2The program adds "ay" to single-letter words beginning with a vowel.
+2 The program adds "ay" to single-letter words beginning with a vowel.
 Example Input: i
 Example Output: iay
 3 program adds "way" to words beggining with a vowels
